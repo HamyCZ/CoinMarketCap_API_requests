@@ -17,3 +17,15 @@ Learn to store cryptocurrency information inside of excel workbooks using Python
 
 ### CoinMarketCap API details
 Shows how many daily/monthly credits use has left when using free CMC API key
+
+
+
+
+## Required configuration steps
+* register at https://pro.coinmarketcap.com/account for your free API key
+* in same folder as the python files create ```config.py``` file with folowing structure where you list your API key and calculation currency you want to use in your results
+
+```
+API_KEY='<your_API_key_from_CMC_here>'
+CCY='GBP'
+```
