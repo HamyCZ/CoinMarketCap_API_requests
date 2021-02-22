@@ -1,6 +1,8 @@
 # CoinMarketCap - Python and Cryptocurrencies
 This project was entierly made thanks to an Udemy course created by Ian Annase 'Python & Cryptocurrency: Build 5 Real World Applications' https://www.udemy.com/share/101wh6A0QYcV1bQHg=/ and personal aim is to get familiar with Python and API(s).
 
+Documentation for the CmC API - available endpoints linked to a plans -> https://coinmarketcap.com/api/documentation/v1/#tag/cryptocurrency 
+
 
 ## Required configuration steps
 * register at https://pro.coinmarketcap.com/account for your free API key
