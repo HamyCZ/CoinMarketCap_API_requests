@@ -5,19 +5,45 @@ This project was entierly made thanks to an Udemy course created by Ian Annase '
 
 ### A Cryptocurrency Portfolio App
 To track all the crypto assets. You can total value of all your crypto assets combined along with detailed information about each one.
+Files required to run:
+```
+cmc_portfolio.py
+config.py
+portfolio.txt
+```
 
 ### A Real-Time Price Alert App
 Get notification when cryptocurrencies hit certain prices.
+Files required to run:
+```
+cmc_alerts.py
+config.py
+alerts.txt
+```
 
 ### Cryptocurreny Ranking App
 Sort by rank, daily percentage change, or by newest cryptocurrencies.
+Files required to run:
+```
+cmc_top100.py
+config.py
+```
 
 ### Store Real-Time Information of Cryptocurrencies in Excel
 Learn to store cryptocurrency information inside of excel workbooks using Python.
+Files required to run:
+```
+
+config.py
+```
 
 ### CoinMarketCap API details
 Shows how many daily/monthly credits use has left when using free CMC API key
-
+Files required to run:
+```
+cmc_APIkey_statistics.py
+config.py
+```
 
 
 
