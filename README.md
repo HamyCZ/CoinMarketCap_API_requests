@@ -2,6 +2,15 @@
 This project was entierly made thanks to an Udemy course created by Ian Annase 'Python & Cryptocurrency: Build 5 Real World Applications' https://www.udemy.com/share/101wh6A0QYcV1bQHg=/ and personal aim is to get familiar with Python and API(s).
 
 
+## Required configuration steps
+* register at https://pro.coinmarketcap.com/account for your free API key
+* in same folder as the python files create ```config.py``` file with folowing structure where you list your API key and calculation currency you want to use in your results
+```
+API_KEY='<your_API_key_from_CMC_here>'
+CCY='GBP'
+```
+
+
 
 ### A Cryptocurrency Portfolio App
 To track all the crypto assets. You can total value of all your crypto assets combined along with detailed information about each one.
@@ -43,15 +52,4 @@ Files required to run:
 ```
 cmc_APIkey_statistics.py
 config.py
-```
-
-
-
-## Required configuration steps
-* register at https://pro.coinmarketcap.com/account for your free API key
-* in same folder as the python files create ```config.py``` file with folowing structure where you list your API key and calculation currency you want to use in your results
-
-```
-API_KEY='<your_API_key_from_CMC_here>'
-CCY='GBP'
 ```
