@@ -42,7 +42,7 @@ config.py
 Learn to store cryptocurrency information inside of excel workbooks using Python.
 Files required to run:
 ```
-
+cmc_crypto2excel.py
 config.py
 ```
 
